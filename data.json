@@ -1,0 +1,852 @@
+{
+  "categories":
+  [
+    {
+      "category": "ComfortInSorrow",
+      "verses": [
+        "2 Corinthians 1:3-4",
+        "Isaiah 61:2",
+        "John 14:1-3",
+        "Matthew 5:4",
+        "Psalms 34:18"
+      ]
+    },
+    {
+      "category": "Compassion",
+      "verses": [
+        "1 John 3:17",
+        "Hebrews 13:16",
+        "Isaiah 49:15",
+        "James 1:27",
+        "John 11:35",
+        "Luke 10:33",
+        "Luke 6:36",
+        "Matthew 25:35-36",
+        "Matthew 9:36",
+        "Proverbs 19:17",
+        "Psalms 103:13",
+        "Psalms 145:9",
+        "Psalms 86:15",
+        "Romans 12:20",
+        "Zechariah 7:9"
+      ]
+    },
+    {
+      "category": "Contentment",
+      "verses": [
+        "1 Timothy 6:6-8",
+        "Ecclesiastes 5:10",
+        "Hebrews 13:5",
+        "Philippians 4:11-13",
+        "Psalms 37:16-17s"
+      ]
+    },
+    {
+      "category": "Courage",
+      "verses": [
+        "1 Chronicles 28:20",
+        "1 Corinthians 16:13",
+        "2 Chronicles 32:7",
+        "2 Timothy 1:7",
+        "Daniel 10:19",
+        "Deuteronomy 31:6",
+        "Deuteronomy 31:8",
+        "Exodus 14:14",
+        "Hebrews 13:6",
+        "Joshua 10:25",
+        "Joshua 1:9",
+        "Proverbs 28:1",
+        "Psalms 118:6",
+        "Psalms 23:4",
+        "Psalms 31:24"
+      ]
+    },
+    {
+      "category": "Deliverance",
+      "verses": [
+        "2 Samuel 22:2-3",
+        "Isaiah 43:2",
+        "Proverbs 18:10",
+        "Psalms 91:1-2s"
+      ]
+    },
+    {
+      "category": "DeliveranceFromEnemies",
+      "verses": [
+        "2 Samuel 22:3",
+        "Psalms 18:2"
+      ]
+    },
+    {
+      "category": "DeliveranceFromFear",
+      "verses": [
+        "Psalms 34:4"
+      ]
+    },
+    {
+      "category": "EncouragementInFaith",
+      "verses": [
+        "Colossians 3:16",
+        "Hebrews 10:24-25",
+        "Philippians 2:1-2"
+      ]
+    },
+    {
+      "category": "EnduringTemptation",
+      "verses": [
+        "1 Corinthians 10:13",
+        "2 Peter 2:9",
+        "Hebrews 2:18",
+        "Matthew 26:41"
+      ]
+    },
+    {
+      "category": "Evangelism",
+      "verses": [
+        "2 Corinthians 5:20",
+        "Acts 1:8",
+        "Mark 16:15",
+        "Matthew 28:19-20"
+      ]
+    },
+    {
+      "category": "Faith",
+      "verses": [
+        "1 John 5:4",
+        "1 Thessalonians 1:3",
+        "2 Corinthians 5:7",
+        "2 Thessalonians 1:3",
+        "Galatians 2:20",
+        "Hebrews 11:1",
+        "Hebrews 11:6",
+        "Hebrews 12:2",
+        "James 1:6",
+        "James 2:17",
+        "John 20:29",
+        "Luke 17:5",
+        "Mark 11:24",
+        "Mark 9:23",
+        "Matthew 17:20",
+        "Matthew 21:22",
+        "Philippians 1:29",
+        "Romans 10:17",
+        "Romans 1:17",
+        "Romans 4:20"
+      ]
+    },
+    {
+      "category": "FaithInAction",
+      "verses": [
+        "Galatians 5:6"
+      ]
+    },
+    {
+      "category": "FaithInGodsWord",
+      "verses": [
+        "2 Timothy 3:16-17",
+        "Hebrews 4:12"
+      ]
+    },
+    {
+      "category": "FaithUnderTrials",
+      "verses": [
+        "1 Peter 1:6-7",
+        "2 Corinthians 4:8-9"
+      ]
+    },
+    {
+      "category": "FaithfulnessInWork",
+      "verses": [
+        "Proverbs 22:29"
+      ]
+    },
+    {
+      "category": "Forgiveness",
+      "verses": [
+        "1 John 1:9",
+        "2 Corinthians 2:10",
+        "Acts 3:19",
+        "Colossians 2:13",
+        "Colossians 3:13",
+        "Ephesians 4:32",
+        "Hebrews 8:12",
+        "Isaiah 1:18",
+        "John 20:23",
+        "Luke 17:3-4",
+        "Luke 6:37",
+        "Luke 7:47",
+        "Mark 11:25",
+        "Mark 2:5",
+        "Matthew 18:21-22",
+        "Matthew 5:23-24",
+        "Matthew 6:14-15",
+        "Micah 6:18",
+        "Micah 7:18-19",
+        "Psalms 103:12",
+        "Romans 4:7"
+      ]
+    },
+    {
+      "category": "Gratitude",
+      "verses": [
+        "1 Chronicles 16:34",
+        "1 Thessalonians 5:18",
+        "2 Corinthians 9:15",
+        "Daniel 2:23",
+        "Ephesians 5:20",
+        "Isaiah 12:4",
+        "James 1:17",
+        "Nehemiah 12:46",
+        "Philippians 4:6",
+        "Psalms 100:4",
+        "Psalms 107:1",
+        "Psalms 118:24",
+        "Psalms 136:1",
+        "Psalms 30:12",
+        "Psalms 69:30",
+        "Psalms 92:1-2s",
+        "Psalms 95:2",
+        "Psalms 9:1"
+      ]
+    },
+    {
+      "category": "GuidanceInDecisions",
+      "verses": [
+        "Isaiah 30:21",
+        "Psalms 119:105",
+        "Psalms 32:8"
+      ]
+    },
+    {
+      "category": "GuidanceInMinistry",
+      "verses": [
+        "Acts 20:24"
+      ]
+    },
+    {
+      "category": "GuidanceInRelationships",
+      "verses": [
+        "Ephesians 4:2-3"
+      ]
+    },
+    {
+      "category": "Healing",
+      "verses": [
+        "1 Peter 2:24",
+        "Acts 10:38",
+        "Acts 3:6-7",
+        "Exodus 15:26",
+        "Isaiah 53:5",
+        "James 5:14-16",
+        "Jeremiah 17:14",
+        "John 5:8-9",
+        "Luke 8:50",
+        "Luke 9:11",
+        "Malachi 4:2",
+        "Mark 6:13",
+        "Matthew 4:24",
+        "Matthew 8:16-17",
+        "Matthew 9:35",
+        "Proverbs 4:20-22",
+        "Psalms 103:2-3s",
+        "Psalms 147:3",
+        "Psalms 30:2",
+        "Revelation 22:2"
+      ]
+    },
+    {
+      "category": "HealingOfHeart",
+      "verses": [
+        "James 5:14-15"
+      ]
+    },
+    {
+      "category": "Hope",
+      "verses": [
+        "1 Corinthians 13:13",
+        "1 John 3:3",
+        "1 John 5:14",
+        "1 Peter 1:3",
+        "1 Peter 3:15",
+        "1 Thessalonians 5:8",
+        "Colossians 1:5",
+        "Ephesians 1:18",
+        "Galatians 5:5",
+        "Hebrews 10:23",
+        "Hebrews 6:19",
+        "Job 11:18",
+        "Lamentations 3:24",
+        "Psalms 39:7",
+        "Psalms 71:5",
+        "Revelation 21:4",
+        "Romans 5:3-5",
+        "Romans 8:24-25",
+        "Titus 2:13"
+      ]
+    },
+    {
+      "category": "HopeInGod",
+      "verses": [
+        "Lamentations 3:21-23",
+        "Psalms 33:18"
+      ]
+    },
+    {
+      "category": "Humility",
+      "verses": [
+        "1 Corinthians 1:28",
+        "1 Peter 5:6",
+        "Isaiah 57:15",
+        "James 4:10",
+        "James 4:6",
+        "Luke 14:11",
+        "Matthew 23:12",
+        "Matthew 5:5",
+        "Micah 6:8",
+        "Philippians 2:3",
+        "Proverbs 15:33",
+        "Proverbs 18:12",
+        "Proverbs 22:4",
+        "Psalms 25:9",
+        "Romans 12:3",
+        "Zephaniah 2:3"
+      ]
+    },
+    {
+      "category": "Joy",
+      "verses": [
+        "1 Peter 1:8",
+        "1 Thessalonians 1:6",
+        "1 Thessalonians 5:16",
+        "2 Corinthians 7:4",
+        "2 John 1:12",
+        "Isaiah 12:3",
+        "James 1:2-3",
+        "John 15:11",
+        "John 16:22",
+        "Philippians 1:4",
+        "Philippians 4:4",
+        "Psalms 16:11",
+        "Psalms 30:5",
+        "Revelation 19:7",
+        "Romans 14:17",
+        "Romans 15:13"
+      ]
+    },
+    {
+      "category": "JoyInSuffering",
+      "verses": [
+        "Habakkuk 3:18"
+      ]
+    },
+    {
+      "category": "Kindness",
+      "verses": [
+        "1 Corinthians 13:4",
+        "1 Peter 3:8",
+        "1 Thessalonians 5:15",
+        "2 Corinthians 6:6",
+        "Colossians 3:12",
+        "Ephesians 2:7",
+        "Galatians 6:10",
+        "Isaiah 63:7",
+        "Luke 6:35",
+        "Matthew 5:7",
+        "Proverbs 11:17",
+        "Proverbs 19:22",
+        "Proverbs 31:26",
+        "Psalms 145:17",
+        "Romans 12:10",
+        "Romans 2:4",
+        "Titus 3:4-5"
+      ]
+    },
+    {
+      "category": "Love",
+      "verses": [
+        "1 Corinthians 13:4-7",
+        "1 Corinthians 16:14",
+        "1 John 3:16",
+        "1 John 4:19",
+        "1 John 4:7",
+        "1 John 4:7-8",
+        "1 Peter 4:8",
+        "Colossians 3:14",
+        "Ephesians 4:2",
+        "Ephesians 5:25",
+        "Galatians 5:22",
+        "John 13:34",
+        "John 15:13",
+        "John 3:16",
+        "Matthew 22:37-39",
+        "Matthew 5:44",
+        "Romans 12:9",
+        "Romans 13:10",
+        "Romans 5:8",
+        "Song of Solomon 8:7"
+      ]
+    },
+    {
+      "category": "LoveForEnemies",
+      "verses": [
+        "1 Peter 3:9",
+        "Luke 6:27-28",
+        "Proverbs 25:21-22"
+      ]
+    },
+    {
+      "category": "LoveForNeighbors",
+      "verses": [
+        "1 John 4:20",
+        "Galatians 5:14",
+        "Luke 10:27",
+        "Matthew 22:39"
+      ]
+    },
+    {
+      "category": "Mercy",
+      "verses": [
+        "2 Samuel 22:26",
+        "Daniel 9:9",
+        "Ephesians 2:4-5",
+        "Hebrews 4:16",
+        "Hosea 6:6",
+        "Isaiah 55:7",
+        "James 2:13",
+        "Jonah 4:2",
+        "Lamentations 3:22-23",
+        "Matthew 9:13",
+        "Nehemiah 9:17",
+        "Psalms 103:11",
+        "Psalms 145:8",
+        "Psalms 25:6-7s",
+        "Psalms 86:5",
+        "Romans 12:8",
+        "Zechariah 7:9-10"
+      ]
+    },
+    {
+      "category": "Obedience",
+      "verses": [
+        "1 John 2:3-6",
+        "1 Samuel 15:22",
+        "Deuteronomy 5:33",
+        "Ecclesiastes 12:13",
+        "Hebrews 5:8",
+        "Isaiah 1:19",
+        "James 1:22",
+        "John 14:15",
+        "John 14:23",
+        "John 15:10",
+        "Joshua 1:8",
+        "Luke 6:46",
+        "Matthew 7:24",
+        "Philippians 2:8",
+        "Proverbs 3:1-2",
+        "Psalms 119:60",
+        "Romans 12:1",
+        "Romans 1:5",
+        "Romans 6:16"
+      ]
+    },
+    {
+      "category": "OvercomingAnxiety",
+      "verses": [
+        "1 Peter 5:7",
+        "Matthew 6:25-34",
+        "Psalms 94:19"
+      ]
+    },
+    {
+      "category": "Patience",
+      "verses": [
+        "1 Thessalonians 5:14",
+        "2 Peter 3:9",
+        "Ecclesiastes 7:8",
+        "Galatians 6:9",
+        "Hebrews 6:12",
+        "James 1:3",
+        "James 5:7-8",
+        "Lamentations 3:25-26",
+        "Proverbs 14:29",
+        "Proverbs 15:18",
+        "Psalms 27:14",
+        "Psalms 37:7",
+        "Psalms 40:1",
+        "Revelation 14:12",
+        "Romans 12:12",
+        "Romans 15:4",
+        "Romans 8:25"
+      ]
+    },
+    {
+      "category": "PatienceInSuffering",
+      "verses": [
+        "1 Peter 4:12-13",
+        "2 Corinthians 6:4-5",
+        "Hebrews 12:1-2",
+        "James 1:2-4"
+      ]
+    },
+    {
+      "category": "PatienceInTrials",
+      "verses": [
+        "James 1:3-4"
+      ]
+    },
+    {
+      "category": "Peace",
+      "verses": [
+        "1 Peter 3:11",
+        "1 Thessalonians 5:23",
+        "2 Corinthians 13:11",
+        "2 Thessalonians 3:16",
+        "Colossians 3:15",
+        "Hebrews 12:14",
+        "Isaiah 26:3",
+        "James 3:18",
+        "John 14:27",
+        "Luke 2:14",
+        "Matthew 5:9",
+        "Philippians 4:6-7",
+        "Philippians 4:9",
+        "Revelation 22:17",
+        "Romans 12:18",
+        "Romans 5:1",
+        "Romans 8:6"
+      ]
+    },
+    {
+      "category": "PeaceInTrouble",
+      "verses": [
+        "Philippians 4:7"
+      ]
+    },
+    {
+      "category": "Perseverance",
+      "verses": [
+        "1 Corinthians 15:58",
+        "1 Peter 5:10",
+        "2 Corinthians 4:16-18",
+        "2 Thessalonians 3:13",
+        "2 Timothy 4:7",
+        "Hebrews 10:36",
+        "Hebrews 12:1",
+        "James 5:11",
+        "Luke 21:19",
+        "Philippians 3:14",
+        "Proverbs 24:16",
+        "Revelation 2:10",
+        "Romans 5:3-4"
+      ]
+    },
+    {
+      "category": "Prayer",
+      "verses": [
+        "1 Chronicles 16:11",
+        "1 Thessalonians 5:17",
+        "Colossians 4:2",
+        "Daniel 6:10",
+        "Ephesians 6:18",
+        "James 5:16",
+        "Jeremiah 29:12",
+        "Luke 11:9-10",
+        "Matthew 6:6",
+        "Nehemiah 1:6",
+        "Psalms 141:2",
+        "Psalms 145:18",
+        "Psalms 34:17",
+        "Psalms 55:17",
+        "Psalms 5:3"
+      ]
+    },
+    {
+      "category": "ProtectionFromTemptation",
+      "verses": [
+        "2 Timothy 2:22",
+        "James 4:7",
+        "Psalms 141:4"
+      ]
+    },
+    {
+      "category": "Provision",
+      "verses": [
+        "2 Corinthians 9:8",
+        "Luke 12:24",
+        "Philippians 4:19",
+        "Psalms 23:1"
+      ]
+    },
+    {
+      "category": "RighteousLiving",
+      "verses": [
+        "1 Peter 2:15",
+        "Matthew 5:16",
+        "Psalms 15:1-2s"
+      ]
+    },
+    {
+      "category": "Righteousness",
+      "verses": [
+        "1 John 3:7",
+        "2 Timothy 4:8",
+        "Isaiah 33:15",
+        "Isaiah 61:10",
+        "James 1:20-21",
+        "Matthew 5:10",
+        "Matthew 5:6",
+        "Matthew 6:33",
+        "Philippians 3:9",
+        "Proverbs 11:4",
+        "Proverbs 21:21",
+        "Proverbs 21:3",
+        "Psalms 1:6",
+        "Psalms 34:15",
+        "Psalms 37:6",
+        "Romans 3:22",
+        "Romans 6:13"
+      ]
+    },
+    {
+      "category": "Salvation",
+      "verses": [
+        "1 Corinthians 1:18",
+        "1 John 5:11-12",
+        "1 Timothy 2:3-4",
+        "2 Corinthians 6:2",
+        "2 Timothy 2:10",
+        "Acts 16:31",
+        "Acts 4:12",
+        "Ephesians 2:8-9",
+        "Hebrews 7:25",
+        "Hebrews 9:28",
+        "Isaiah 45:22",
+        "Joel 2:32",
+        "John 5:24",
+        "Mark 16:16",
+        "Psalms 62:1-2s",
+        "Revelation 7:10",
+        "Romans 10:9",
+        "Romans 1:16",
+        "Romans 5:9",
+        "Romans 8:24",
+        "Titus 3:5"
+      ]
+    },
+    {
+      "category": "Service",
+      "verses": [
+        "1 Corinthians 12:4-7",
+        "1 Peter 4:10",
+        "1 Thessalonians 5:11",
+        "1 Timothy 6:18",
+        "2 Corinthians 9:6-7",
+        "Acts 20:35",
+        "Colossians 3:23",
+        "Ephesians 2:10",
+        "Galatians 5:13",
+        "Hebrews 6:10",
+        "James 2:14-17",
+        "John 13:14-15",
+        "Luke 10:27-37",
+        "Mark 10:45",
+        "Matthew 23:11",
+        "Matthew 25:40",
+        "Philippians 2:3-4",
+        "Romans 12:11",
+        "Romans 15:1"
+      ]
+    },
+    {
+      "category": "SpiritualArmor",
+      "verses": [
+        "2 Thessalonians 3:3",
+        "Ephesians 6:10-18",
+        "Isaiah 59:17",
+        "Romans 13:12"
+      ]
+    },
+    {
+      "category": "SpiritualFruits",
+      "verses": [
+        "Colossians 3:12-14",
+        "Ephesians 5:9",
+        "Galatians 5:22-23",
+        "John 15:5",
+        "Matthew 7:20"
+      ]
+    },
+    {
+      "category": "SpiritualGrowth",
+      "verses": [
+        "2 Peter 3:18",
+        "Colossians 1:10",
+        "Ephesians 4:15",
+        "Hebrews 5:12",
+        "Philippians 1:6"
+      ]
+    },
+    {
+      "category": "SteadfastnessInFaith",
+      "verses": [
+        "Colossians 1:23",
+        "Hebrews 3:14",
+        "Philippians 1:27"
+      ]
+    },
+    {
+      "category": "Stewardship",
+      "verses": [
+        "Luke 16:10",
+        "Matthew 25:21"
+      ]
+    },
+    {
+      "category": "Strength",
+      "verses": [
+        "2 Corinthians 12:9-10",
+        "2 Timothy 4:17",
+        "Colossians 1:11",
+        "Ephesians 6:10",
+        "Habakkuk 3:19",
+        "Hebrews 11:34",
+        "Isaiah 40:29",
+        "Isaiah 40:31",
+        "Isaiah 41:10",
+        "James 1:12",
+        "John 16:33",
+        "Nehemiah 8:10",
+        "Philippians 4:13",
+        "Psalms 18:32",
+        "Psalms 27:1",
+        "Psalms 29:11",
+        "Psalms 46:1",
+        "Psalms 73:26",
+        "Revelation 3:21",
+        "Romans 8:31"
+      ]
+    },
+    {
+      "category": "Trust",
+      "verses": [
+        "Isaiah 12:2",
+        "Isaiah 26:4",
+        "Isaiah 50:10",
+        "Jeremiah 17:7",
+        "Jeremiah 29:11",
+        "John 14:1",
+        "Nahum 1:7",
+        "Proverbs 16:20",
+        "Psalms 125:1",
+        "Psalms 28:7",
+        "Psalms 32:10",
+        "Psalms 34:8",
+        "Psalms 37:5",
+        "Psalms 56:3",
+        "Psalms 62:8",
+        "Psalms 91:2",
+        "Psalms 9:10"
+      ]
+    },
+    {
+      "category": "TrustInGodsPlan",
+      "verses": [
+        "Isaiah 55:8-9",
+        "Proverbs 16:3",
+        "Romans 8:28"
+      ]
+    },
+    {
+      "category": "TrustInGodsPromises",
+      "verses": [
+        "Isaiah 26:3-4"
+      ]
+    },
+    {
+      "category": "TrustInGodsTiming",
+      "verses": [
+        "Ecclesiastes 3:1",
+        "Habakkuk 2:3"
+      ]
+    },
+    {
+      "category": "Truth",
+      "verses": [
+        "1 John 3:18",
+        "1 Peter 1:22",
+        "2 Corinthians 13:8",
+        "3 John 1:4",
+        "Colossians 3:9",
+        "Ephesians 4:25",
+        "Isaiah 59:14",
+        "Jeremiah 9:3",
+        "John 14:6",
+        "John 17:17",
+        "John 8:32",
+        "Proverbs 12:17",
+        "Proverbs 23:23",
+        "Proverbs 8:7",
+        "Psalms 119:160",
+        "Psalms 15:2",
+        "Psalms 25:5",
+        "Psalms 86:11",
+        "Romans 1:18",
+        "Zechariah 8:16"
+      ]
+    },
+    {
+      "category": "Wisdom",
+      "verses": [
+        "1 Corinthians 1:30",
+        "1 Corinthians 2:6-7",
+        "1 Timothy 6:20",
+        "Colossians 1:9",
+        "Colossians 2:3",
+        "Daniel 2:21",
+        "Ecclesiastes 7:12",
+        "Ephesians 1:17",
+        "Isaiah 11:2",
+        "James 1:5",
+        "James 3:17",
+        "Job 28:28",
+        "Luke 21:15",
+        "Matthew 7:7",
+        "Proverbs 2:6",
+        "Proverbs 3:5-6",
+        "Proverbs 4:7",
+        "Proverbs 9:10",
+        "Psalms 111:10",
+        "Romans 11:33"
+      ]
+    },
+    {
+      "category": "WisdomInFinances",
+      "verses": [
+        "1 Timothy 6:10",
+        "Luke 16:10-11",
+        "Malachi 3:10",
+        "Proverbs 21:20",
+        "Proverbs 3:9-10"
+      ]
+    },
+    {
+      "category": "WisdomInLeadership",
+      "verses": [
+        "1 Timothy 3:1-7",
+        "Exodus 18:21",
+        "Proverbs 11:14",
+        "Proverbs 16:12"
+      ]
+    },
+    {
+      "category": "WisdomInSpeech",
+      "verses": [
+        "Colossians 4:6",
+        "Ephesians 4:29",
+        "James 1:19",
+        "Proverbs 15:1",
+        "Psalms 19:14"
+      ]
+    }
+  ]
+}
